@@ -3,100 +3,104 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Rodolfo Echemendía
-    tagline: Software Engineer
-    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Rodolfo Echemendía
+  tagline: Software Engineer
+  avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: rodobarcaaa@gmail.com
-    phone: (+598) 096 434 473
-    website: rodobarcaaa.github.io #do not add http://
-    linkedin: rechemendia
-    github: rodobarcaaa
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@rodobarcaaa'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+  # Sidebar links
+  email: rodobarcaaa@gmail.com
+  phone: (+598) 096 434 473
+  website: rodobarcaaa.github.io #do not add http://
+  linkedin: rechemendia
+  github: rodobarcaaa
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter: '@rodobarcaaa'
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: Spanish
-        level: Native
+  languages:
+    - idiom: Spanish
+      level: Native
 
-      - idiom: English
-        level: Intermediate
+    - idiom: English
+      level: Intermediate
 
-    interests:
-      - item: Tech
-        link:
+  interests:
+    - item: Tech
+      link:
 
-      - item: WebDev
-        link:
+    - item: WebDev
+      link:
 
-      - item: Soccer
-        link:
+    - item: Soccer
+      link:
 
 career-profile:
-    title: ABOUT ME
-    summary: |
-      Experienced software engineer of working in the technology industry. Skiled in Scala to develop web products, mainly back-end, such as web services RESTfull and GraphQL, connections to databases and interaction with third parties. In addition to being a team leader with good management and interpersonal skills, currently in charge of project planning and adaptation of new technologies of Travelonux team.
+  title: ABOUT ME
+  summary: |
+    Experienced software engineer of working in the technology industry. Skiled in Scala to develop web products, mainly back-end, such as web services RESTfull and GraphQL, connections to databases and interaction with third parties. In addition to being a team leader with good management and interpersonal skills, currently in charge of project planning and adaptation of new technologies of Travelonux team.
 education:
-    - degree: Functional Program Design in Scala
-      university: Coursera Course Certificates
-      time: 2017
-      details: Certificate
+  - degree: Functional Program Design in Scala
+    university: Coursera Course Certificates
+    time: 2017
 
-    - degree: Functional Programming Principles in Scala
-      university: Coursera Course Certificates
-      time: 2016
-      details: Certificate
+  - degree: Functional Programming Principles in Scala
+    university: Coursera Course Certificates
+    time: 2016
 
-    - degree: Engineer's Degree
-      university: University of Informatic Sciences (UCI) Havana, Cuba
-      time: 2006 - 2011
+  - degree: Engineer's Degree
+    university: University of Informatic Sciences (UCI) Havana, Cuba
+    time: 2006 - 2011
 
 experiences:
-    - role: Software Engineer, CTO
-      time: 2018 - Present
-      company: Travelonux  / Montevideo, Uruguay
-      details: |
-        Heavily involved in Product Development Area as Product Owner and Product Manager
+  - role: Software Engineer, CTO
+    time: 2018 - Present
+    company: Travelonux  / Montevideo, Uruguay
+    details: |
+      - Heavily involved in Product Development Area as Product Owner and Product Manager
+      - Maintenance, updating and creating of libraries for help the internal development
+      - Travel Agency Administration System in versions B2B, B2C, Admin
+      - Solutions RESTful of Travelonux Enterprise
 
-    - role: Software Engineer
-      time: 2016 - 2018
-      company: BQN Custom Technology / Montevideo, Uruguay
-      details: |
-        Development of web services and applications for the management of lotteries and bets.
+  - role: Software Engineer
+    time: 2016 - 2018
+    company: BQN Custom Technology / Montevideo, Uruguay
+    details: |
+      - Development of web services and applications for the management of lotteries and bets
+      - Maintenance, updating and creating of libraries for help the internal development
 
-    - role: Database Developer
-      time: 2015 - 2016
-      company: Telefónica Movistar / Montevideo, Uruguay
-      details: |
-        Migration databases and Validation rules
+  - role: Database Developer
+    time: 2015 - 2016
+    company: Telefónica Movistar / Montevideo, Uruguay
+    details: |
+      - Migration databases and Validation rules
 
-    - role: Java Developer
-      time: 2014 - 2015
-      company: Pragma Consultores / Montevideo, Uruguay
+  - role: Java Developer
+    time: 2014 - 2015
+    company: Pragma Consultores / Montevideo, Uruguay
+    details: |
+      - Maintenance and support system anagement specialist units
 
-    - role: Developer, Specialist Computer Science, SysAdmin
-      time: 2011 - 2014
-      company: BPA - Banco Popular de Ahorros / Cienfuegos, Cuba
+  - role: Developer, Specialist Computer Science, SysAdmin
+    time: 2011 - 2014
+    company: BPA - Banco Popular de Ahorros / Cienfuegos, Cuba
 
-    - role: Student Developer
-      time: 2010 - 2011
-      company: University of Informatic Sciences (UCI) / Habana, Cuba
-      details: |
-        Integration of the Medical Genetics System (alasMEDIGEN) with Computerized Health Register (RIS) to web services level.
+  - role: Student Developer
+    time: 2010 - 2011
+    company: University of Informatic Sciences (UCI) / Habana, Cuba
+    details: |
+      Integration of the Medical Genetics System (alasMEDIGEN) with Computerized Health Register (RIS) to web services level.
 
-    - role: SysAdmin and Manage Computer Medical Systems
-      time: 2009 - 2010
-      company: CDI-Higuerote / Miranda, Venezuela
+  - role: SysAdmin and Manage Computer Medical Systems
+    time: 2009 - 2010
+    company: CDI-Higuerote / Miranda, Venezuela
 
 #projects:
 #  title: Projects
@@ -115,29 +119,40 @@ experiences:
 
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Web Developer (MVC, SPA, FP, WS)
-        level: 100%
+  toolset:
+    - name: Web Developer
+      level: 100%
 
-      - name: Web Services (RESTful, GraphQL)
-        level: 95%
+    - name: RESTful
+      level: 95%
 
-      - name: Backend (Scala, Java, Ruby, Python)
-        level: 85%
+    - name: GraphQL
+      level: 75%
 
-      - name: Frontend (HTML, CSS, JS, TS, Angular, ReactJS)
-        level: 65%
+    - name: Scala
+      level: 100%
 
-      - name: Databases (MySQL, PostgreSQL, MongoDB, Redis)
-        level: 75%
+    - name: Java
+      level: 80%
 
-      - name: DevOps (Docker, AWS, CI/CD Pipelines, Github Actions)
-        level: 75%
+    - name: Ruby
+      level: 70%
 
-      - name: Scala (Play, Slick, Tapir, Sangria, Cats)
-        level: 95%
+    - name: Python
+      level: 60%
+
+    - name: Frontend (JS, TS)
+      level: 65%
+
+    - name: DB (SQL, NoSQL, Redis)
+      level: 75%
+
+    - name: DevOps
+      level: 85%
+
+
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by rodobarcaaa
+  Designed with <i class="fas fa-heart"></i> by rodobarcaaa
