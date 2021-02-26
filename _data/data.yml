@@ -21,7 +21,7 @@ sidebar:
   gitlab:
   bitbucket:
   twitter: '@rodobarcaaa'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  stack-overflow: 6902412/rodolfo-echemendía-quintana # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -65,8 +65,8 @@ experiences:
     company: Travelonux  / Montevideo, Uruguay
     details: |
       - Heavily involved in Product Development Area as Product Owner and Product Manager
-      - Maintenance, updating and creating of libraries for help the internal development
-      - Travel Agency Administration System in versions B2B, B2C, Admin
+      - Maintenance and creating of libraries for help the internal development
+      - Travel Agency Administration Systems in versions B2B and B2C
       - Solutions RESTful of Travelonux Enterprise
 
   - role: Software Engineer
