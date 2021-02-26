@@ -125,7 +125,10 @@ skills:
 
   toolset:
     - name: Backend (REST, GraphQL)
-      level: 95%
+      level: 99%
+
+    - name: Frontend (JS, TS)
+      level: 65%
 
     - name: DB (SQL, NoSQL, Redis)
       level: 90%
@@ -133,32 +136,23 @@ skills:
     - name: DevOps (Docker, AWS)
       level: 85%
 
-    - name: Frontend (JS, TS)
-      level: 65%
-
     - name: Scala
-      level: 100%
-
-    - name: Java
-      level: 80%
-
-    - name: Ruby
-      level: 70%
+      level: 99%
 
     - name: Python
       level: 60%
 
     - name: HTML
-      level: 90%
+      level: 85%
 
     - name: CSS
-      level: 80%
+      level: 85%
 
     - name: Angular
-      level: 60%
+      level: 55%
 
     - name: ReactJs
-      level: 60%
+      level: 55%
 
 
 
