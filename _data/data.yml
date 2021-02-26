@@ -47,115 +47,97 @@ career-profile:
     summary: |
       Experienced software engineer of working in the technology industry. Skiled in Scala to develop web products, mainly back-end, such as web services RESTfull and GraphQL, connections to databases and interaction with third parties. In addition to being a team leader with good management and interpersonal skills, currently in charge of project planning and adaptation of new technologies of Travelonux team.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Functional Program Design in Scala
+      university: Coursera Course Certificates
+      time: 2017
+      details: Certificate
+
+    - degree: Functional Programming Principles in Scala
+      university: Coursera Course Certificates
+      time: 2016
+      details: Certificate
+
+    - degree: Engineer's Degree
+      university: University of Informatic Sciences (UCI) Havana, Cuba
+      time: 2006 - 2011
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Engineer, CTO
+      time: 2018 - Present
+      company: Travelonux  / Montevideo, Uruguay
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
+        Heavily involved in Product Development Area as Product Owner and Product Manager
+
+    - role: Software Engineer
+      time: 2016 - 2018
+      company: BQN Custom Technology / Montevideo, Uruguay
+      details: |
+        Development of web services and applications for the management of lotteries and bets.
+
+    - role: Database Developer
+      time: 2015 - 2016
+      company: Telefónica Movistar / Montevideo, Uruguay
+      details: |
+        Migration databases and Validation rules
+
+    - role: Java Developer
       time: 2014 - 2015
-      company: Google, London
+      company: Pragma Consultores / Montevideo, Uruguay
+
+    - role: Developer, Specialist Computer Science, SysAdmin
+      time: 2011 - 2014
+      company: BPA - Banco Popular de Ahorros / Cienfuegos, Cuba
+
+    - role: Student Developer
+      time: 2010 - 2011
+      company: University of Informatic Sciences (UCI) / Habana, Cuba
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        Integration of the Medical Genetics System (alasMEDIGEN) with Computerized Health Register (RIS) to web services level.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    - role: SysAdmin and Manage Computer Medical Systems
+      time: 2009 - 2010
+      company: CDI-Higuerote / Miranda, Venezuela
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#projects:
+#  title: Projects
+#  assignments:
+#    - title: MeVuelo
+#      link: "#hook"
+#      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#    - title: SPA - Sistema de Pago de Aciertos
+#      link: "#"
+#      tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#    - title: Alase
+#      link: "#"
+#      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Scala & Play
-        level: 98%
+      - name: Web Developer (MVC, SPA, FP, WS)
+        level: 100%
 
-      - name: Python & FastAPI
-        level: 55%
+      - name: Web Services (RESTful, GraphQL)
+        level: 95%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Backend (Scala, Java, Ruby, Python)
+        level: 85%
 
-      - name: Angular
-        level: 60%
+      - name: Frontend (HTML, CSS, JS, TS, Angular, ReactJS)
+        level: 65%
 
-      - name: HTML5 & CSS
-        level: 80%
-
-      - name: Ruby
+      - name: Databases (MySQL, PostgreSQL, MongoDB, Redis)
         level: 75%
 
+      - name: DevOps (Docker, AWS, CI/CD Pipelines, Github Actions)
+        level: 75%
+
+      - name: Scala (Play, Slick, Tapir, Sangria, Cats)
+        level: 95%
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">rodobarcaaa</a>
+    Designed with <i class="fas fa-heart"></i> by rodobarcaaa
