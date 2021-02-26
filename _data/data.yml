@@ -80,13 +80,15 @@ experiences:
     time: 2015 - 2016
     company: Telefónica Movistar / Montevideo, Uruguay
     details: |
-      - Migration databases and Validation rules
+      - Migration databases MsSQL, Oracle
+      - Designing and evaluate validation rules
 
   - role: Java Developer
     time: 2014 - 2015
     company: Pragma Consultores / Montevideo, Uruguay
     details: |
       - Maintenance and support system anagement specialist units
+      - Application Development AES- Gener, United Payments
 
   - role: Developer, Specialist Computer Science, SysAdmin
     time: 2011 - 2014
@@ -96,7 +98,7 @@ experiences:
     time: 2010 - 2011
     company: University of Informatic Sciences (UCI) / Habana, Cuba
     details: |
-      Integration of the Medical Genetics System (alasMEDIGEN) with Computerized Health Register (RIS) to web services level.
+      - Integration of the Medical Genetics System (alasMEDIGEN) with Computerized Health Register (RIS) to web services level.
 
   - role: SysAdmin and Manage Computer Medical Systems
     time: 2009 - 2010
@@ -122,14 +124,17 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Web Developer
-      level: 100%
-
-    - name: RESTful
+    - name: Backend (RESTful, GraphQL)
       level: 95%
 
-    - name: GraphQL
-      level: 75%
+    - name: DB (SQL, NoSQL, Redis)
+      level: 90%
+
+    - name: DevOps (Docker, AWS)
+      level: 85%
+
+    - name: Frontend (JS, TS)
+      level: 65%
 
     - name: Scala
       level: 100%
@@ -143,14 +148,17 @@ skills:
     - name: Python
       level: 60%
 
-    - name: Frontend (JS, TS)
-      level: 65%
+    - name: HTML
+      level: 90%
 
-    - name: DB (SQL, NoSQL, Redis)
-      level: 75%
+    - name: CSS
+      level: 80%
 
-    - name: DevOps
-      level: 85%
+    - name: Angular
+      level: 60%
+
+    - name: ReactJs
+      level: 60%
 
 
 
