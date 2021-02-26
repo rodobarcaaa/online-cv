@@ -124,7 +124,7 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Backend (RESTful, GraphQL)
+    - name: Backend (REST, GraphQL)
       level: 95%
 
     - name: DB (SQL, NoSQL, Redis)
